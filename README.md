@@ -6,6 +6,19 @@
 
 ---
 
+## Table of Contents
+
+1. [Objective](#objective)  
+2. [Key Insights from Dashboard](#key-insights-from-dashboard)  
+   - [Customer Demographics Profiling](#1-customer-demographics-profiling)  
+   - [Customer Segmentation Insights](#2-customer-segmentation-insights)
+3. [Recommended Target Customers](#recommended-target-customers)  
+   - [Primary Target Profile](#primary-target-profile)
+4. [Targeting Considerations](#targeting-considerations)  
+5. [Next Steps](#next-steps)
+
+---
+
 ## Objective
 
 To develop a dashboard and identify which customers from the new 1000 customer list should be targeted, using demographic profiling and customer segmentation based on the past 3 years of bike-related purchases.
