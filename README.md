@@ -25,6 +25,16 @@ To develop a dashboard and identify which customers from the new 1000 customer l
 
 ---
 
+### Tools Used
+
+The following tools were used to clean, analyze, and visualize the data for this task:
+
+- **Microsoft Excel** – Primary analysis and dashboard creation.  
+- **Power Query** – Data cleaning and transformation.  
+- **Pivot Tables** – Summarizing and segmenting customer insights.
+
+---
+
 ## Key Insights from Dashboard
 
 ### 1. Customer Demographics Profiling
